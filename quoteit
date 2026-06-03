@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QUOTEit Privacy Policy</title>
+<style>
+  body { font-family: sans-serif; max-width: 680px; margin: 40px auto; padding: 0 20px; line-height: 1.7; color: #222; }
+  h1 { font-size: 1.4rem; }
+  h2 { font-size: 1rem; margin-top: 2rem; }
+</style>
+</head>
+<body>
+<h1>QUOTEit Privacy Policy</h1>
+<p><em>Last updated: March 2026</em></p>
+<p>QUOTEit is a personal quote and topic app where you create and organize short quotes for your own use. This privacy policy explains what data the app handles and how.</p>
+<h2>1. Data We Collect</h2>
+<p>QUOTEit does not require you to create an account.</p>
+<p>QUOTEit does not collect your name, email address, or any contact information.</p>
+<p>QUOTEit does not collect location data.</p>
+<p>All content you enter — topics, quotes, and related text — is stored only on your device and is never sent to any server.</p>
+<h2>2. Analytics and Tracking</h2>
+<p>QUOTEit does not use analytics or advertising SDKs.</p>
+<p>QUOTEit does not show ads.</p>
+<p>QUOTEit does not use third-party tracking for marketing or advertising purposes.</p>
+<h2>3. Purchases and Subscriptions</h2>
+<p>QUOTEit offers an optional paid subscription to unlock additional features.</p>
+<p>Purchases are processed securely through Google Play.</p>
+<p>QUOTEit does not receive or store your payment information.</p>
+<h2>4. Data Sharing</h2>
+<p>QUOTEit does not sell your data.</p>
+<p>QUOTEit does not share your personal data with third parties for advertising or profiling.</p>
+<p>Data may only be disclosed if required by law or to comply with a valid legal request.</p>
+<h2>5. Data Security</h2>
+<p>All data stored by QUOTEit remains on your device and is protected by your device's own security, such as passcode or biometric lock.</p>
+<p>If you uninstall the app, all data stored by QUOTEit on your device is permanently deleted.</p>
+<h2>6. Children and Minors</h2>
+<p>QUOTEit does not contain explicit or harmful content.</p>
+<p>QUOTEit does not knowingly collect personal data from children.</p>
+<h2>7. Changes to This Policy</h2>
+<p>If this policy changes in a significant way, a new version will be published at the same URL with an updated date.</p>
+<h2>8. Contact</h2>
+<p>Email: terryb.dev@gmail.com</p>
+</body>
+</html>
